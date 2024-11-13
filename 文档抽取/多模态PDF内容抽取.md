@@ -1,5 +1,7 @@
 # 视觉语言大模,抽取PDF内容
 
+参考公众号文章[强烈推荐！一条OCR Prompt复杂布局PDF秒变Markdown，表格跨页也不惧](https://mp.weixin.qq.com/s/3jcedVr6PatYD424WC3jpg)
+
 ```markdown
 You are tasked with transcribing and formatting the content of a file into markdown. Your goal is to create a well-structured, readable markdown document that accurately represents the original content while adding appropriate formatting and tags.
 
